@@ -24,8 +24,7 @@ This project consists of building a basic Active Directory home lab using Window
 
 <p align="center">
 Set up the virtual machines: <br/>
-<img src="" height="80%" width="80%" alt="Active Directory Lab Steps"/>
-<br />
+<img src="https://i.imgur.com/E7OcR5I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 Install Windows Server: <br/>
