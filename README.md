@@ -43,12 +43,12 @@ Install Active Directory Domain Services: <br/>
 <br />
 
 Promote the server to a Domain Controller: <br/>
-<img src="" height="80%" width="80%" alt="Active Directory Lab Steps"/>
+<img src="https://i.imgur.com/r2AOOf2.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 <br />
 <br />
 
 Configure DNS and DHCP: <br/>
-<img src="" height="80%" width="80%" alt="Active Directory Lab Steps"/>
+<img src="https://i.imgur.com/9M3Vsie.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 <br />
 <br />
 
