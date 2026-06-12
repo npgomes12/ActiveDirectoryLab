@@ -28,7 +28,7 @@ Set up the virtual machines: <br/>
 <br />
 
 Install Windows Server: <br/>
-<img src="" height="80%" width="80%" alt="Active Directory Lab Steps"/>
+<img src="https://i.imgur.com/CL62Q2b.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 <br />
 <br />
 
