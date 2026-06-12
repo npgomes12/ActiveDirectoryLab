@@ -33,12 +33,12 @@ Install Windows Server: <br/>
 <br />
 
 Configure server network settings: <br/>
-<img src="" height="80%" width="80%" alt="Active Directory Lab Steps"/>
+<img src="https://i.imgur.com/bOiYNMu.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 <br />
 <br />
 
 Install Active Directory Domain Services: <br/>
-<img src="" height="80%" width="80%" alt="Active Directory Lab Steps"/>
+<img src="https://i.imgur.com/IrdwSni.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 <br />
 <br />
 
