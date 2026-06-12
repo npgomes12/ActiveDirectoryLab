@@ -53,7 +53,7 @@ Configure DNS and DHCP: <br/>
 <br />
 
 Create users, groups, and organizational units: <br/>
-<img src="" height="80%" width="80%" alt="Active Directory Lab Steps"/>
+<img src="https://i.imgur.com/wBuzI5u.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 <br />
 <br />
 
