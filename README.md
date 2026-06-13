@@ -1,6 +1,5 @@
 <h1>Active Directory Home Lab</h1>
 
-### [YouTube Demonstration](https://www.youtube.com/watch?v=MHsI8hJmggI&list=PLqBeiU46hx1H--SNfTrohTOWeqkK-M2Y0)
 
 <h2>Description</h2>
 This project consists of building a basic Active Directory home lab using Windows Server and Windows client machines. The lab walks through setting up a Domain Controller, configuring DNS and DHCP, creating users and organizational units, joining client computers to the domain, and testing user logins. This project helped me practice core IT administration, networking, and troubleshooting skills in a virtual lab environment.
