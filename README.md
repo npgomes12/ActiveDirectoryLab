@@ -67,5 +67,5 @@ Test domain login with created user account: <br/>
 <br />
 
 Verify network connectivity and troubleshoot issues: <br/>
-<img src="" height="80%" width="80%" alt="Active Directory Lab Steps"/>
+<img src="https://i.imgur.com/vNRZgrM.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 </p>
