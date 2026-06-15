@@ -57,7 +57,7 @@ Create users, groups, and organizational units: <br/>
 <br />
 
 Join Windows client computer to the domain: <br/>
-<img src="" height="80%" width="80%" alt="Active Directory Lab Steps"/>
+<img src="https://i.imgur.com/g4Llwj1.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 <br />
 <br />
 
