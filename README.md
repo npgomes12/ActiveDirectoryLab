@@ -62,7 +62,7 @@ Join Windows client computer to the domain: <br/>
 <br />
 
 Test domain login with created user account: <br/>
-<img src="" height="80%" width="80%" alt="Active Directory Lab Steps"/>
+<img src="https://i.imgur.com/L0XN4CZ.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 <br />
 <br />
 
